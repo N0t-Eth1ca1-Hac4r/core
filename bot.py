@@ -2,9 +2,10 @@ import discord
 from discord.ext import commands
 import datetime
 from discord.utils import get
+import youtube_dl
+import os
 import requests
 import json
-import os
 
 # Переменные (токен и префикс)
 prefix = '$'
