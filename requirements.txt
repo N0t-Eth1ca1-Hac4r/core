@@ -1,8 +1,6 @@
-youtube-dl
 discord.py
 datetime
 requests
 aiohttp
 websockets
 chardet
-PyNaCl
